@@ -11,11 +11,7 @@
 
 HDGT is an unified heterogeneous transformer-based graph neural network for driving scene encoding. **SOTA method** on [INTERACTION](http://challenge.interaction-dataset.com/leader-board) and [Waymo](https://waymo.com/open/challenges/2021/motion-prediction/) Motion Prediction Chanllege. 
 
-The code is in preparation.
-
-
-## Acknowledgements
-
+The arxiv version is on hold. The code is in preparation.
 
 ## License
   All content within this repository is under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
