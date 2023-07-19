@@ -1,4 +1,4 @@
-# HDGT: all brand new baseline on Waymo for Motion Prediction
+# HDGT: All Brand New Baseline on Waymo for Motion Prediction
 ![pipeline](hdgt.PNG)  
 
 
