@@ -1,0 +1,8 @@
+dataset/waymo/*
+*tfrecord*
+*.pkl
+*logs*
+*__pycache__*
+*.log
+*.out
+*.tar.bz2

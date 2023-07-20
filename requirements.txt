@@ -1,0 +1,12 @@
+joblib==1.1.0
+matplotlib==3.5.2
+numba==0.55.1
+numpy==1.21.5
+opencv_python==4.5.5.64
+pandas==1.4.2
+Pillow==9.2.0
+pyarrow==8.0.0
+pyproj==3.3.1
+rich==12.4.4
+scikit_learn==1.1.1
+scipy==1.6.2
