@@ -14,7 +14,7 @@ By time of release in April 2022, the proposed method achieves new state-of-the-
 
 - [Installation](docs/INSTALL.md)
 - [Prepare Dataset](docs/DATA_PREP.md)
-- [Train & EVALUATION](docs/TRAIN_EVAL.md)
+- [Train & Evaluation](docs/TRAIN_EVAL.md)
 
 
 ## License
